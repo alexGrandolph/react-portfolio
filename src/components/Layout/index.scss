@@ -4,24 +4,24 @@
   position: absolute;
 }
 
-.top-tags {
-  bottom: auto;
-  top: 35px;
-}
+// .top-tags {
+//   bottom: auto;
+//   top: 35px;
+// }
 
-.tags {
-  color: #ffd700;
-  opacity: 0.6;
-  position: absolute;
-  bottom: 0;
-  left: 120px;
-  font-size: 18px;
-  font-family: 'La Belle Aurore', cursive;
-}
+// .tags {
+//   color: #ffd700;
+//   opacity: 0.6;
+//   position: absolute;
+//   bottom: 0;
+//   left: 120px;
+//   font-size: 18px;
+//   font-family: 'La Belle Aurore', cursive;
+// }
 
-.bottom-tag-html {
-  margin-left: -20px;
-}
+// .bottom-tag-html {
+//   margin-left: -20px;
+// }
 
 .container {
   width: 100%;
@@ -53,7 +53,7 @@
     left: -10px;
 
     &:before {
-      content: '<h1>';
+      // content: '<h1>';
       font-family: 'La Belle Aurore', cursive;
       color: #ffd700;
       font-size: 18px;
@@ -65,7 +65,7 @@
     }
 
     &:after {
-      content: '<h1/>';
+      // content: '<h1/>';
       font-family: 'La Belle Aurore', cursive;
       color: #ffd700;
       font-size: 18px;
