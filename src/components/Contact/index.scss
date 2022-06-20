@@ -1,3 +1,4 @@
+
 .contact-form {
   width: 100%;
   margin-top: 20px;
@@ -36,7 +37,9 @@
   input[type='email'] {
     width: 100%;
     border: 0;
-    background: #115173;
+    background: rgba(8, 253, 216, 0.1);
+    // background: #6344ec88;
+    // background: #115173;
     height: 50px;
     font-size: 16px;
     color: #fff;
@@ -47,9 +50,12 @@
   textarea {
     width: 100%;
     border: 0;
-    background: #115173;
+    background: rgba(8, 253, 216, 0.1);
+    // background: #6344ec88;
+    // background: #115173;
     height: 50px;
     font-size: 16px;
+    // color: rgb(179, 50, 50);
     color: #fff;
     padding: 20px;
     box-sizing: border-box;
@@ -57,12 +63,15 @@
   }
 
   .flat-button {
-    color: #ffd700;
+    color: rgba(8, 253, 216, 0.525);
+    // color: #6d1af4;
     font-size: 11px;
     letter-spacing: 3px;
     text-decoration: none;
     padding: 8px 10px;
-    border: 1px solid #ffd700;
+    border: 1px solid rgba(8, 253, 216, 0.525);
+    // border: 1px solid #6d1af4;
+    // border: 1px solid #ffd700;
     float: left;
     border-radius: 4px;
     background: 0 0;
@@ -93,6 +102,7 @@
 .info-map {
   position: absolute;
   background: #000;
+  background: rgb(52, 49, 49);
   top: 50px;
   right: 30%;
   z-index: 999999;
@@ -110,7 +120,7 @@
     font-size: 16px;
 
     span {
-      color: #ffd700;
+      color: #8400ff;
     }
   }
 }

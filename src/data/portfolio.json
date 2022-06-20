@@ -1,0 +1,34 @@
+{
+    "portfolio": [
+        {
+            "cover": "../assets/images/home.png",
+            "title": "Phast Phood",
+            "description": "Front End: Rails | Back End: Rails API",
+            "url": "https://phastphood.herokuapp.com/"
+        },
+        {
+            "cover": "/portfolio/home.png",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        }
+    ]
+}

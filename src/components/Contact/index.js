@@ -54,6 +54,7 @@ const Contact = () => {
             full stack oppurtunities.  I know Ruby and Ruby on Rails and SQL with Active Record.
             I am currently learning JavaScript and React.  I am willing to learn any new language.
           </p>
+
           <div className="contact-form">
             <form ref={form} onSubmit={sendEmail}>
               <ul>
