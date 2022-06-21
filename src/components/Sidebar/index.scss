@@ -119,15 +119,17 @@
     li {
       a {
         padding: 7px 0;
-      font-size: 35px;
+        font-size: 35px;
         display: block;
         font-size: 35px;
         line-height: 16px;
-      color: rgba(8, 253, 216, 0.407); // color: #6d1af4;
+        color: rgba(8, 253, 216, 0.407); // color: #6d1af4;
         // color:#6d1af4;
-
         &:hover {
-      color: rgba(8, 253, 216, 0.407); // color: #6d1af4;          // color: #ffd700;
+        color: rgb(254, 254, 254); // color: #6d1af4;          // color: #ffd700;
+        transition: all 0.3s ease-out;
+        transform: scale3d(1.5, 1.2, 0.3);
+        // background-color: rgb(254, 254, 254);
         }
       }
     }
