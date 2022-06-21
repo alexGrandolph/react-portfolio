@@ -33,12 +33,13 @@ const About = () => {
             />
           </h1>
           <p>
-            Driven and empathetic back end software engineer dedicated to developing 
-            high quality applications through focus on Object Oriented Programming 
-            and Test Driven Development. I thrive solving complex and multifaceted 
-            problems  through collaboration, continuing to learn, strong communication, 
-            and analytical thinking - I believe there is no problem that is unsolvable, 
-            especially as a team.
+            Having working in the Mental Health and Addiction/Substance Abuse Recovery 
+            fields, I learned the importance of strong communication, and empathy in interaction
+            and collaboration.  Being able to work well with any one, and loving to learn
+            and problem, the transition into being a software developer has been ideal.
+            I am dedicated to developing high quality applications through focus on 
+            Object Oriented Programming and Test Driven Development.  I am most familiar with Ruby
+            and Ruby on Rails, but I am always learning something new. 
           </p>
           <p align="LEFT">
             I am always learning new things, whether it be new technologies, new recipes,
@@ -55,19 +56,27 @@ const About = () => {
         <div className="stage-cube-cont">
           <div className="cubespinner">
             <div className="face1">
+
               <FontAwesomeIcon icon={faAngular} color="#DD0031" />
             </div>
             <div className="face2">
-              <FontAwesomeIcon icon={faHtml5} color="#F06529" />
+              <img src="/ruby_png.png"/>
+              {/* <FontAwesomeIcon icon={faHtml5} color="#F06529" /> */}
             </div>
             <div className="face3">
-              <FontAwesomeIcon icon={faCss3} color="#28A4D9" />
+              <img src="/rails.png" />
+
+              {/* <FontAwesomeIcon icon={faCss3} color="#28A4D9" /> */}
             </div>
             <div className="face4">
-              <FontAwesomeIcon icon={faReact} color="#5ED4F4" />
+              <img src="/sql.png" />
+
+              {/* <FontAwesomeIcon icon={faReact} color="#5ED4F4" /> */}
             </div>
             <div className="face5">
-              <FontAwesomeIcon icon={faJsSquare} color="#EFD81D" />
+              <img src="/postgresql.png" />
+
+              {/* <FontAwesomeIcon icon={faJsSquare} color="#EFD81D" /> */}
             </div>
             <div className="face6">
               <FontAwesomeIcon icon={faGitAlt} color="#EC4D28" />
