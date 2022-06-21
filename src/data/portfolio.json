@@ -1,27 +1,27 @@
 {
     "portfolio": [
         {
-            "cover": "./portfolio/home.png",
+            "cover": "/home.png",
             "title": "Phast Phood",
             "description": "Rails | Rails API | Bootstrap",
             "url": "https://phastphood.herokuapp.com/"
         },
         {
-            "cover": "/portfolio/home.png",
+            "cover": "/sweater_weather.png",
             "title": "Sweater Weather",
-            "description": "Rails API",
-            "url": "http://google.com"
+            "description": "Rails API | Postgresql",
+            "url": "https://github.com/alexGrandolph/sweater_weather"
         },
         {
-            "cover": "/portfolio/1/one.png",
+            "cover": "/viewing_party.png",
             "title": "Viewing Party",
-            "description": "Rails",
+            "description": "Rails | Postgresql",
             "url": "http://google.com"
         },
         {
-            "cover": "/portfolio/1/one.png",
+            "cover": "/rails_engine.png",
             "title": "Rails Engine",
-            "description": "Rails API",
+            "description": "Rails API | Postgresql",
             "url": "http://google.com"
         },
         {
