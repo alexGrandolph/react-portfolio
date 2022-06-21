@@ -4,6 +4,12 @@ import LogoS from '../../assets/images/logo-s.png'
 import LogoSubtitle from '../../assets/images/logo_sub.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHome, faUser, faEnvelope, faSuitcase } from '@fortawesome/free-solid-svg-icons'
+import {
+  faLinkedin,
+  faGithub,
+  faYoutube,
+  faSkype,
+} from '@fortawesome/free-brands-svg-icons'
 
 const Sidebar = () => (
   <div className='nav-bar'>
@@ -26,6 +32,26 @@ const Sidebar = () => (
       </NavLink>
 
     </nav>
+    <ul>
+      <li>
+        <a
+          href="https://www.linkedin.com/in/alexgrandolph/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <FontAwesomeIcon icon={faLinkedin} color="rgba(8, 253, 216, 0.407)" />
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://github.com/alexGrandolph"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <FontAwesomeIcon icon={faGithub} color="rgba(8, 253, 216, 0.407)" />
+        </a>
+      </li>
+      </ul>
   </div>
 )
 
