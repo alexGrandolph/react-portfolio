@@ -5,6 +5,10 @@ $primary-color: rgba(8, 253, 216);
 
 @import 'animate.css';
 @import '~loaders.css/src/animations/pacman.scss';
+@import 'loaders.css/src/animations/ball-clip-rotate-pulse.scss';
+@import 'loaders.css/src/animations/ball-pulse-rise.scss';
+@import 'loaders.css/src/animations/square-spin.scss';
+
 
 @font-face {
   font-family: 'Helvetica Neue';

@@ -1,27 +1,27 @@
 {
     "portfolio": [
         {
-            "cover": "../assets/images/home.png",
+            "cover": "./portfolio/home.png",
             "title": "Phast Phood",
-            "description": "Front End: Rails | Back End: Rails API",
+            "description": "Rails | Rails API | Bootstrap",
             "url": "https://phastphood.herokuapp.com/"
         },
         {
             "cover": "/portfolio/home.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
+            "title": "Sweater Weather",
+            "description": "Rails API",
             "url": "http://google.com"
         },
         {
             "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
+            "title": "Viewing Party",
+            "description": "Rails",
             "url": "http://google.com"
         },
         {
             "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
+            "title": "Rails Engine",
+            "description": "Rails API",
             "url": "http://google.com"
         },
         {
