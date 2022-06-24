@@ -83,6 +83,9 @@ const About = () => {
             </div>
           </div>
         </div>
+        <div className="skeeter_image">
+          <img src="/skeeterNme.png" />
+        </div>
       </div>
       <Loader type="square-spin" />
     </>
