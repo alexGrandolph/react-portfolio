@@ -33,23 +33,33 @@ const About = () => {
             />
           </h1>
           <p>
-            Having working in the Mental Health and Addiction/Substance Abuse Recovery 
-            fields, I learned the importance of strong communication, and empathy in interaction
-            and collaboration.  Being able to work well with any one, and loving to learn
-            and problem, the transition into being a software developer has been ideal.
-            I am dedicated to developing high quality applications through focus on 
-            Object Oriented Programming and Test Driven Development.  I am most familiar with Ruby
-            and Ruby on Rails, but I am always learning something new. 
-          </p>
-          <p align="LEFT">
-            I am always learning new things, whether it be new technologies, new recipes,
-            or diving into a new book.  In my spare time I love to spend time with my corgi
-            Skeeter, go skiing or golfing, or spend time with my family.
+            My own Mental Health and Recovery journey lead me to working in the Mental 
+            Health and Addiction/Substance Abuse Recovery fields.  During that time I 
+            became a certified Recovery Coach, a House Manager for the Sober Living 
+            that helped me, and worked with countless men and women during their journeys.
+            This time of my life taught me so much.  I learned the importance of personal 
+            responsibility and accountability.  I learned how to meet any one where they are
+            at.  And I learned the value of strong communication, team work, and team building.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a driven and empathic
-            human, with a never ending curiosity and drive to be the best version of myself that
-            I can be. 
+            Working in Mental Health and Addiction/Substance Abuse Recovery was essential in 
+            becoming the human I am today.  During this time my life long love of problem 
+            solving and technical work started to reemerge.  Which is what lead me to learning
+            about software development.  After taking some free online courses, a family member
+            recommended I apply for the Turing School of Software Development.  I knew it would 
+            be a great challenge, but nothing I could not get through.
+          </p>
+          <p>
+            I quickly enrolled in the Back End program, and started in January of 2022.  I 
+            learned Object Oriented Programming and Test Driven Development through Ruby.  Those
+            skills were necessary in then learning Ruby on Rails.  I began creating applications,
+            and fell in love with the process.  I love programming because almost every day a new
+            challenge comes up that I must first learn about and then solve.  At Turing I worked 
+            with all sorts of increcible people, and built some amazing applications.
+          </p>
+          <p>
+            Currently I am expaning my Rails knowledge, as well as learning JavaScript through React
+            and learning Python.
           </p>
         </div>
 
