@@ -61,15 +61,15 @@ const About = () => {
           <div className="cubespinner">
             <div className="face1">
 
-              <img src="/sql.png" />
+              <img src="/sql.png" alt="sql" />
               {/* <FontAwesomeIcon icon={faAngular} color="#DD0031" /> */}
             </div>
             <div className="face2">
-              <img src="/ruby_png.png"/>
+              <img src="/ruby_png.png" alt="ruby" />
               {/* <FontAwesomeIcon icon={faHtml5} color="#F06529" /> */}
             </div>
             <div className="face3">
-              <img src="/rails.png" />
+              <img src="/rails.png" alt="rails" />
 
               {/* <FontAwesomeIcon icon={faCss3} color="#28A4D9" /> */}
             </div>
@@ -78,7 +78,7 @@ const About = () => {
               {/* <FontAwesomeIcon icon={faReact} color="#5ED4F4" /> */}
             </div>
             <div className="face5">
-              <img src="/postgresql.png" />
+              <img src="/postgresql.png" alt="postgresql" />
 
               {/* <FontAwesomeIcon icon={faJsSquare} color="#EFD81D" /> */}
             </div>
@@ -88,7 +88,7 @@ const About = () => {
           </div>
         </div>
         <div className="skeeter_image">
-          <img src="/skeeterNme.png" />
+          <img src="/skeeterNme.png" alt="skeeter" />
         </div>
       </div>
       <Loader type="square-spin" />

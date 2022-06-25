@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 // import LogoTitle from '../../assets/images/logo-s.png'
 import './index.scss'
 import AnimatedLetters from '../AnimatedLetters'
-import Logo from './Logo'
+// import Logo from './Logo'
 import Loader from 'react-loaders'
 
 
@@ -68,7 +68,9 @@ const Home = () => {
         <Link to="/contact" className="flat-button">CONTACT ME
         </Link>
       </div>
-      <Logo />
+      <div class="skeeter_logo">
+          <img src="skeetereyesxcf.png" alt="skeeter id" />
+      </div>
     </div>
       <Loader type="square-spin" />
     </>
