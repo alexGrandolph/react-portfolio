@@ -10,13 +10,14 @@
 
   .logo {
     display: block;
-    padding: 8px 0;
+    padding: 0px 0;
 
     img {
       display: block;
-      margin: 8px auto;
-      width: 24px;
+      margin: 10px auto;
+      width: 60px;
       height: auto;
+      padding-right: 4px;
 
       &.sub-logo {
         width: 50px;

@@ -14,8 +14,8 @@ import {
 const Sidebar = () => (
   <div className='nav-bar'>
     <Link className='logo' to='/'>
-      <img src={LogoS} alt="logo" />
-      <img className="sub-logo" src={LogoSubtitle} alt="alex" />
+      {/* <img src="skeeteroutline1.png" /> */}
+      <img className="sub-logo"  src="skeetereyesxcf.png"  alt="skeeter" />
     </Link>
     <nav>
       <NavLink exact="true" activeclassname="active" to="/">
