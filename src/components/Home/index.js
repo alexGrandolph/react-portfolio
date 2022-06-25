@@ -10,7 +10,7 @@ import Loader from 'react-loaders'
 
 const Home = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
-  const nameArray = ['l', 'e', 'x']
+  const nameArray = ['A', 'l', 'e', 'x']
   const jobArray = [
     'b',
     'a',
@@ -49,8 +49,9 @@ const Home = () => {
           <br />
           <span className={`${letterClass} _13`}>I</span>
           <span className={`${letterClass} _14`}>'m</span>
+          <span className={`${letterClass} _14`}> </span>
         
-        <img src={LogoTitle} alt="developer" />
+        {/* <img src={LogoTitle} alt="developer" /> */}
           <AnimatedLetters
             letterClass={letterClass}
             strArray={nameArray}
@@ -60,7 +61,7 @@ const Home = () => {
           <AnimatedLetters
             letterClass={letterClass}
             strArray={jobArray}
-            idx={22}
+            idx={2}
           />
         </h1>
         <h2>Ruby || Rails</h2>
@@ -68,6 +69,9 @@ const Home = () => {
         </Link>
       </div>
       <Logo />
+      {/* <div className="skeeter_image">
+        <img src="skeetereyesxcf.png" alt="skeeter"/>
+      </div> */}
     </div>
       <Loader type="square-spin" />
     </>

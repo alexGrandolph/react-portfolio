@@ -41,7 +41,7 @@ const Logo = () => {
       <img
         className="solid-logo"
         ref={solidLogoRef}
-        src={LogoS}
+        src="skeetereyesxcf.png"
         alt="back-end,  Developer"
       />
 
