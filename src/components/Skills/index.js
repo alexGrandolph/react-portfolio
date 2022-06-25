@@ -13,7 +13,7 @@ const Skills = () => {
   const TagCloud = require('TagCloud');
 
 
-  const container = '.tagcloud';
+  // const container = '.tagcloud';
   const myTags = [
     'Ruby', 'Rails', 'OOP', 'HTML',
     'CSS', 'SQL', 'Postgresql', 'REST',
