@@ -69,9 +69,6 @@ const Home = () => {
         </Link>
       </div>
       <Logo />
-      {/* <div className="skeeter_image">
-        <img src="skeetereyesxcf.png" alt="skeeter"/>
-      </div> */}
     </div>
       <Loader type="square-spin" />
     </>

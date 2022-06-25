@@ -5,41 +5,51 @@ import './index.scss'
 
 const Skills = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
-  const TagCloud = require('TagCloud');
-
-  const container = '.tagcloud';
-  const myTags = [
-    'Ruby', 'Rails', 'OOP', 'HTML',
-    'CSS', 'SQL', 'Postgresql',
-    'Sass', 'Bootstrap', 'API Building', 'git',
-    'Heroku', 'API Consumption', 'Active Record',
-    'Test Driven Development', 'Service Oriented Architecture'
-  ];
-  var tagCloud = TagCloud('.content', myTags, {
-
-    // radius in px
-    radius: 300,
-
-    // animation speed
-    // slow, normal, fast
-    maxSpeed: 'normal',
-    initSpeed: 'normal',
-
-    // 0 = top
-    // 90 = left
-    // 135 = right-bottom
-    direction: 135,
-
-    // interact with cursor move on mouse out
-    keep: true
-
-  }); 
   useEffect(() => {
     setTimeout(() => {
       setLetterClass('text-animate-hover')
     }, 3000)
   }, [])
+  const TagCloud = require('TagCloud');
 
+
+  const container = '.tagcloud';
+  const myTags = [
+    'Ruby', 'Rails', 'OOP', 'HTML',
+    'CSS', 'SQL', 'Postgresql', 'REST',
+    'Sass', 'Bootstrap', 'APIs', 'git',
+    'JSON', 'Active Record',
+    'Test Driven Development', 'Service Oriented Architecture'
+  ];
+  // const tagCloud = TagCloud('.content', myTags, {
+  //   // radius in px
+  //   radius: 300,
+  //   // animation speed
+  //   // slow, normal, fast
+  //   maxSpeed: 'normal',
+  //   initSpeed: 'normal',
+  //   // 0 = top
+  //   // 90 = left
+  //   // 135 = right-bottom
+  //   direction: 135,
+  //   // interact with cursor move on mouse out
+  //   keep: true
+  // }); 
+  const options = {  // radius in px
+    radius: 300,
+    // animation speed
+    // slow, normal, fast
+    maxSpeed: 'normal',
+    initSpeed: 'normal',
+    // 0 = top
+    // 90 = left
+    // 135 = right-bottom
+    direction: 135,
+    // interact with cursor move on mouse out
+    keep: true
+};
+
+  TagCloud('.container', myTags, options);
   return (
   <>
       <div className="container about-page">
@@ -66,9 +76,7 @@ const Skills = () => {
           </p>
           </div>
       </div>
-      <div className="skills-storm">
-        <span class="content"></span>
-      </div>
+      <div class="TagCloud"></div>
       <Loader type="square-spin" />
     </>
   )

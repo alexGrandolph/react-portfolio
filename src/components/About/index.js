@@ -37,8 +37,7 @@ const About = () => {
             at.  And I learned the value of strong communication, team work, and team building.
           </p>
           <p>
-            Working in Mental Health and Addiction/Substance Abuse Recovery was essential in 
-            becoming the human I am today.  During this time my life long love of problem 
+            During this time my life long love of problem 
             solving and technical work started to reemerge.  Which is what lead me to learning
             about software development.  After taking some free online courses, a family member
             recommended I apply for the Turing School of Software Development.  I knew it would 
@@ -53,8 +52,8 @@ const About = () => {
             with all sorts of increcible people, and built some amazing applications.
           </p>
           <p>
-            Currently I am expaning my Rails knowledge, as well as learning JavaScript through React
-            and learning Python.
+           If I am not coding you can most likely find me hanging out with my corgi Skeeter.
+           Otherwise I would be reading a horror or sci-fi book, skiing, or golfing.
           </p>
         </div>
 

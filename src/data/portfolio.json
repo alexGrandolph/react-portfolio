@@ -3,7 +3,7 @@
         {
             "cover": "/home.png",
             "title": "Phast Phood",
-            "description": "Rails | Rails API | Bootstrap",
+            "description": "Rails | Rails API",
             "url": "https://phastphood.herokuapp.com/"
         },
         {
@@ -25,10 +25,10 @@
             "url": "http://google.com"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/skeetereyesxcf.png",
+            "title": "React Portfolio",
+            "description": "JS, React, JSX, Sass",
+            "url": "https://github.com/alexGrandolph/react-portfolio"
         }
     ]
 }
