@@ -113,6 +113,7 @@
                 color: black;
                 padding: 5px;
                 padding-top: 50px;
+
               }
           }
           &:nth-child(2) {
@@ -121,8 +122,9 @@
                 font-size: 15px;
                 font-weight: 500;
                 color: black;
-                padding: 15px;
                 padding-top: 50px;
+                padding-right: 30px;
+                padding-left: 2px;
               }
           }
           
@@ -132,8 +134,9 @@
                 font-size: 15px;
                 font-weight: 500;
                 color: black;
-                padding: 15px;
                 padding-top: 50px;
+                padding-right: 30px;
+                padding-left: 2px;
               }
           }
           
@@ -144,9 +147,9 @@
                 font-size: 15px;
                 font-weight: 500;
                 color: black;
-                padding: 15px;
                 padding-top: 50px;
-              }
+                padding-right: 30px;
+                padding-left: 2px;              }
           }
           
           &:nth-child(5) {
@@ -155,13 +158,14 @@
                 font-size: 15px;
                 font-weight: 500;
                 color: black;
-                padding: 15px;
                 padding-top: 50px;
+                padding-right: 30px;
+                padding-left: 2px;
               }
           }
           
         &:hover:after {
-            content: "HELLOOO";
+            content: "";
              opacity: 0.85;
         }
 
