@@ -5,8 +5,10 @@
   
   <h2>A back end developers React portfolio. </h2>
   <br>
-  <h2>[Deployed App](https://www.alexgrandolph.dev) </h2>
+  
   </div>
+  
+[Deployed App](https://alexgrandolph.dev/)</h2>
 # ABOUT THIS APP
 
 This portfolio application is my first attempt at using JavaScript or React.  Through Youtube tutorials, a lot of googling and reasearch, and lots of debugging I am proud of the final product.
@@ -20,7 +22,7 @@ A big thanks to Code with Sloba [Code with Sloba](https://www.youtube.com/channe
 
 # TECH USED
 <div align="center">
-  <h3>
-    JavaScript  ||  React  ||  JSX  ||  [email.js](https://www.emailjs.com)  ||  Vercel  ||  Gimp
- </h3>  
 </div>
+    JavaScript  ||  React  ||  JSX  || [email.js](https://emailjs.com/)   ||  Vercel  ||  Gimp
+
+
