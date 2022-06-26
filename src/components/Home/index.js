@@ -69,7 +69,7 @@ const Home = () => {
         </Link>
       </div>
       <div class="skeeter_logo">
-          <img src="skeetereyesxcf.png" alt="skeeter id" />
+          <img src="wholeskeeter.png" alt="skeeter id" />
       </div>
     </div>
       <Loader type="square-spin" />
