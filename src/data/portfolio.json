@@ -3,7 +3,7 @@
         {
             "cover": "/home.png",
             "title": "Phast Phood",
-            "description": "Rails | Rails API",
+            "description": "Rails | Rails API | Bootstrap",
             "url": "https://phastphood.herokuapp.com/"
         },
         {
@@ -16,7 +16,7 @@
             "cover": "/viewing_party.png",
             "title": "Viewing Party",
             "description": "Rails | Postgresql",
-            "url": "http://google.com"
+            "url": "https://evening-sierra-86256.herokuapp.com/"
         },
         {
             "cover": "/rails_engine.png",
@@ -27,7 +27,7 @@
         {
             "cover": "/skeetereyesxcf.png",
             "title": "React Portfolio",
-            "description": "JS, React, JSX, Sass",
+            "description": "JS | React | JSX | Sass",
             "url": "https://github.com/alexGrandolph/react-portfolio"
         }
     ]

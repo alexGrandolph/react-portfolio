@@ -12,6 +12,8 @@ const Home = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
   const nameArray = ['A', 'l', 'e', 'x']
   const jobArray = [
+    'a',
+    ' ',
     'b',
     'a',
     'c',
@@ -40,8 +42,12 @@ const Home = () => {
   }, [])
 
   return (
+
     <>
     <div className="container home-page">
+        <div class="skeeter_logo">
+          <img src="wholeskeeter.png" alt="skeeter id" />
+        </div>
       <div className="text-zone">
         <h1>
           <span className={letterClass}>H</span>
@@ -68,9 +74,9 @@ const Home = () => {
         <Link to="/contact" className="flat-button">CONTACT ME
         </Link>
       </div>
-      <div class="skeeter_logo">
+      {/* <div class="skeeter_logo">
           <img src="wholeskeeter.png" alt="skeeter id" />
-      </div>
+      </div> */}
     </div>
       <Loader type="square-spin" />
     </>
