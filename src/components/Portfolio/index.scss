@@ -163,6 +163,28 @@
                 padding-left: 2px;
               }
           }
+          &:nth-child(6) {
+              &:hover:after {
+                content: 'React Tetris is a fully functioning in browser game made with React.  The app features styled-components, and was a great excercise in logic with JavaScript/React.';
+                font-size: 15px;
+                font-weight: 500;
+                color: rgb(227, 212, 212);
+                padding-top: 50px;
+                padding-right: 30px;
+                padding-left: 2px;
+              }
+          }
+          &:nth-child(7) {
+              &:hover:after {
+                content: 'Night Writer is a project written entirely in Ruby using TDD.  Users can input a .txt file containing a message and Night Writer will conver that message to a "braile".  It can also translate braille into plain text.';
+                font-size: 15px;
+                font-weight: 500;
+                color: rgb(246, 246, 205);
+                padding-top: 50px;
+                padding-right: 30px;
+                padding-left: 2px;
+              }
+          }
           
         &:hover:after {
             content: "";

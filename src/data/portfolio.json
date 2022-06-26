@@ -29,6 +29,19 @@
             "title": "React Portfolio",
             "description": "JS | React | JSX | Sass",
             "url": "https://github.com/alexGrandolph/react-portfolio"
+        },
+
+        {
+            "cover": "/Tetris.png",
+            "title": "React Tetris",
+            "description": "JS | React | JSX | Sass",
+            "url": "https://tetris-rho-beige.vercel.app/"
+        },
+        {
+            "cover": "/night_writer.png",
+            "title": "Night Writer",
+            "description": "Ruby | RSpec",
+            "url": "https://github.com/alexGrandolph/night_writer"
         }
     ]
 }
