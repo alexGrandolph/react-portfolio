@@ -10,19 +10,19 @@
             "cover": "/sweater_weather.png",
             "title": "Sweater Weather",
             "description": "Rails API | Postgresql",
-            "url": "https://github.com/alexGrandolph/sweater_weather"
+            "url": "https://api-sweater-weather.herokuapp.com/"
         },
         {
             "cover": "/viewing_party.png",
             "title": "Viewing Party",
             "description": "Rails | Postgresql",
-            "url": "https://evening-sierra-86256.herokuapp.com/"
+            "url": "https://viewing---party.herokuapp.com/"
         },
         {
             "cover": "/rails_engine.png",
             "title": "Rails Engine",
             "description": "Rails API | Postgresql",
-            "url": "http://google.com"
+            "url": "https://github.com/alexGrandolph/rails-engine"
         },
         {
             "cover": "/skeetereyesxcf.png",
