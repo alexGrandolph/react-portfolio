@@ -71,12 +71,11 @@ const Home = () => {
           />
         </h1>
         <h2>Ruby || Rails</h2>
+     
         <Link to="/contact" className="flat-button">CONTACT ME
         </Link>
       </div>
-      {/* <div class="skeeter_logo">
-          <img src="wholeskeeter.png" alt="skeeter id" />
-      </div> */}
+
     </div>
       <Loader type="square-spin" />
     </>

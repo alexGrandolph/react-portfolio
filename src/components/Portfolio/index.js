@@ -3,9 +3,11 @@ import Loader from "react-loaders";
 import AnimatedLetters from "../AnimatedLetters";
 import "./index.scss";
 import portfolioData from '../../data/portfolio.json';
+import { saveAs } from 'file-saver';
 // import { Link } from 'react-router-dom'
 
 const Portfolio = () => { 
+    var file = new File(["Resume"], "resume4.0.pdf", { type: "text/plain;charset=utf-8" });
     const [letterClass, setLetterClass] = useState('text-animate');
     console.log(portfolioData);
 
@@ -50,6 +52,7 @@ const Portfolio = () => {
 
     return (
         <>
+
             <div className="container portfolio-page">
                 <h1 className="page-title">
                     <AnimatedLetters
@@ -57,6 +60,8 @@ const Portfolio = () => {
                         strArray={"Portfolio".split("")}
                         idx={15}
                     />
+            {/* <a href="Resume4.0.pdf" download className="resume-button">MY RESUME</a> */}
+                    <a href="Resume4.0.pdf" target="_blank" className="resume-button">VIEW MY RESUME</a>
                 </h1>
                 <div>{renderPortfolio(portfolioData.portfolio)}</div>
             </div>
