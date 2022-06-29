@@ -38,9 +38,8 @@
   input[type='email'] {
     width: 100%;
     border: 0;
-    background: rgba(8, 253, 216, 0.1);
-    // background: #6344ec88;
-    // background: #115173;
+    // background: rgba(8, 253, 216, 0.1);
+    background: rgba(8, 253, 216, 0.237);
     height: 50px;
     font-size: 16px;
     color: #fff;
@@ -52,8 +51,8 @@
     width: 100%;
     border: 0;
     background: rgba(8, 253, 216, 0.1);
-    // background: #6344ec88;
-    // background: #115173;
+    background: rgba(8, 253, 216, 0.237);
+
     height: 50px;
     font-size: 16px;
     // color: rgb(179, 50, 50);
@@ -64,12 +63,14 @@
   }
 
   .flat-button {
-    color: rgba(8, 253, 216, 0.525);
+    // color: rgba(8, 253, 216, 0.525);
+    color: rgba(8, 253, 216, 0.699);
     font-size: 11px;
     letter-spacing: 3px;
     text-decoration: none;
     padding: 8px 10px;
-    border: 1px solid rgba(8, 253, 216, 0.525);
+    // border: 1px solid rgba(8, 253, 216, 0.525);
+    border: 1px solid rgba(8, 253, 216, 0.699);
     float: left;
     border-radius: 4px;
     background: 0 0;
@@ -127,4 +128,14 @@
       color: #8400ff;
     }
   }
+
+}
+.resume-link {
+  font-size: 15px;
+  color:rgb(4, 224, 191);
+
+}
+.resume-link:hover {
+  color: rgb(247, 247, 247);
+  font-size: 17px;
 }

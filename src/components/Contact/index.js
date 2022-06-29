@@ -53,6 +53,7 @@ const Contact = () => {
             certificate from The Turing School of Software Design, but am also interested in 
             full stack oppurtunities.  I know Ruby, Ruby on Rails, and SQL.
             I am currently learning JavaScript and React, and tinkering with Python.  I am excited to learn any new language.
+            My resume is available  <a href="Resume4.0.pdf" target="_blank" className="resume-link">HERE</a>.
           </p>
 
           <div className="contact-form">

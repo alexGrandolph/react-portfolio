@@ -38,7 +38,7 @@ const About = () => {
           </p>
           <p>
             During this time my life long love of problem 
-            solving and technical work started to reemerge.  Which is what lead me to learning
+            solving and technical work started to reemerge.  This lead me to learning
             about software development.  After taking some free online courses, a family member
             recommended I apply for the Turing School of Software Development.  I knew it would 
             be a great challenge, but nothing I could not get through.
@@ -48,12 +48,12 @@ const About = () => {
             learned Object Oriented Programming and Test Driven Development through Ruby, leading
             to learning Ruby on Rails.  I began creating applications,
             and fell in love with the process.  I love programming because almost every day a new
-            challenge comes up that I must first learn about and then solve.  At Turing I worked 
-            with all sorts of increcible people, and built some amazing applications.
+            challenge comes up that I must first learn about and then solve.  At Turing I worked on projects 
+            with a remarkable group increcible people, and built some amazing applications.
           </p>
           <p>
            If I am not coding you can most likely find me hanging out with my corgi Skeeter.
-           Otherwise I would be reading a horror or sci-fi book, skiing, or golfing.
+           Otherwise I would be reading a new horror or sci-fi book, skiing, or golfing.
           </p>
         </div>
 

@@ -68,10 +68,10 @@ const Skills = () => {
            one of two nationally accredited coding bootcamps.  
            <br />
            <br />
-           On my own I have begun to learn JavaScript through React.
-           This portfolio website is my first React App.  I have also
-           been learning node.js to familiarize myself with a JavaScript 
-           back end.  I have also tinkered a little bit with Python and
+           On my own I have started to learn JavaScript through React.
+           This portfolio website is my first React App.  In that same vein
+           I have started learning node.js to familiarize myself with a JavaScript 
+           back end. I am also tinkering with Python and
            GraphQL. 
           </p>
           </div>
