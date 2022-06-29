@@ -36,8 +36,8 @@
 
     a {
       font-size: 35px;
-      color: rgba(8, 253, 216, 0.407);
-      // color: #4d4d4e;
+      color: rgba(8, 253, 216, 0.699);      
+      // color: rgba(8, 253, 216, 0.407);
       display: block;
       line-height: 51px;
       height: 51px;
@@ -49,6 +49,7 @@
       }
 
       &:hover {
+        // color: rgb(255, 255, 255);
         color: rgb(255, 255, 255);
         // color: #ffd700;
 
@@ -57,7 +58,7 @@
         }
 
         &:after {
-          opacity: 1;
+          opacity: 5;
         }
       }
 
@@ -107,7 +108,8 @@
 
     a.active {
       svg {
-      color: rgba(8, 253, 216, 0.407);        // color: #6d1af4;
+      // color: rgba(8, 253, 216, 0.407); 
+      color: rgba(8, 253, 216, 0.699);
       }
     }
   }
@@ -129,8 +131,9 @@
         display: block;
         font-size: 35px;
         line-height: 16px;
-        color: rgba(8, 253, 216, 0.407); // color: #6d1af4;
-        // color:#6d1af4;
+        // color: rgba(8, 253, 216, 0.407); 
+        color: rgba(8, 253, 216, 0.699);
+       
         &:hover {
         color: rgb(254, 254, 254); // color: #6d1af4;          // color: #ffd700;
         transition: all 0.3s ease-out;
