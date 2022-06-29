@@ -28,7 +28,7 @@ const About = () => {
             />
           </h1>
           <p>
-            My own Mental Health and Recovery journey lead me to working in the Mental 
+            My own journey through recovery lead me to working in the Mental 
             Health and Addiction/Substance Abuse Recovery fields.  During that time I 
             became a certified Recovery Coach, a House Manager for the Sober Living 
             that helped me, and worked with countless men and women during their journeys.
@@ -45,8 +45,8 @@ const About = () => {
           </p>
           <p>
             I quickly enrolled in the Back End program, and started in January of 2022.  I 
-            learned Object Oriented Programming and Test Driven Development through Ruby.  Those
-            skills were necessary in then learning Ruby on Rails.  I began creating applications,
+            learned Object Oriented Programming and Test Driven Development through Ruby, leading
+            to learning Ruby on Rails.  I began creating applications,
             and fell in love with the process.  I love programming because almost every day a new
             challenge comes up that I must first learn about and then solve.  At Turing I worked 
             with all sorts of increcible people, and built some amazing applications.

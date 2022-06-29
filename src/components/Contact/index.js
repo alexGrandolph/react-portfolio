@@ -49,10 +49,10 @@ const Contact = () => {
             />
           </h1>
           <p>
-            I am currently look for a web develpment role.  I have a back end development 
+            I am currently looking for a web develpment role.  I have a back end development 
             certificate from The Turing School of Software Design, but am also interested in 
-            full stack oppurtunities.  I know Ruby and Ruby on Rails and SQL with Active Record.
-            I am currently learning JavaScript and React.  I am willing to learn any new language.
+            full stack oppurtunities.  I know Ruby, Ruby on Rails, and SQL.
+            I am currently learning JavaScript and React, and tinkering with Python.  I am excited to learn any new language.
           </p>
 
           <div className="contact-form">
