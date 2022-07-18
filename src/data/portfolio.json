@@ -13,6 +13,13 @@
             "url": "https://api-sweater-weather.herokuapp.com/"
         },
         {
+            "cover": "/pup_trainer.png",
+            "title": "PupTrainer",
+            "description": "Rails API | GraphQL",
+            "url": "https://pup-trainer.herokuapp.com/",
+            "repo": "https://github.com/PupTrainer/be_puptrainer"
+        },
+        {
             "cover": "/viewing_party.png",
             "title": "Viewing Party",
             "description": "Rails | Postgresql",

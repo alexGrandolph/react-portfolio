@@ -17,6 +17,7 @@ const Skills = () => {
   const myTags = [
     'Ruby', 'Rails', 'OOP', 'HTML',
     'CSS', 'SQL', 'Postgresql', 'REST',
+    'GraphQL',
     'Sass', 'Bootstrap', 'APIs', 'git','RSpec',
     'JSON', 'Active Record',
     'Test Driven Development', 'Service Oriented Architecture'
