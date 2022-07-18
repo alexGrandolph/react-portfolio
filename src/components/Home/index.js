@@ -14,24 +14,24 @@ const Home = () => {
   const jobArray = [
     'a',
     ' ',
-    'b',
+    's',
+    'o',
+    'f',
+    't',
+    'w',
     'a',
-    'c',
-    'k',
+    'r',
+    'e',
     ' ',
     'e',
     'n',
-    'd',
-    ' ',
-    'd',
+    'g',
+    'i',
+    'n',
     'e',
-    'v',
-    'e',
-    'l',
-    'o',
-    'p',
     'e',
     'r',
+
     '.',
   ]
 
@@ -70,7 +70,7 @@ const Home = () => {
             idx={2}
           />
         </h1>
-        <h2>Ruby || Rails</h2>
+        <h2>Ruby || Rails || APIs </h2>
      
         <Link to="/contact" className="flat-button">CONTACT ME
         </Link>
