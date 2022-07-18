@@ -4,13 +4,15 @@
             "cover": "/home.png",
             "title": "Phast Phood",
             "description": "Rails | Rails API | Bootstrap",
-            "url": "https://phastphood.herokuapp.com/"
+            "url": "https://phastphood.herokuapp.com/",
+            "repo": "https://github.com/James-Harkins/fast_food"
         },
         {
             "cover": "/sweater_weather.png",
             "title": "Sweater Weather",
             "description": "Rails API | Postgresql",
-            "url": "https://api-sweater-weather.herokuapp.com/"
+            "url": "https://api-sweater-weather.herokuapp.com/",
+            "repo": "https://github.com/alexGrandolph/sweater_weather"
         },
         {
             "cover": "/pup_trainer.png",
@@ -23,32 +25,37 @@
             "cover": "/viewing_party.png",
             "title": "Viewing Party",
             "description": "Rails | Postgresql",
-            "url": "https://viewing---party.herokuapp.com/"
+            "url": "https://viewing---party.herokuapp.com/",
+            "repo": "https://github.com/alexGrandolph/viewing_party_lite"
         },
         {
             "cover": "/rails_engine.png",
             "title": "Rails Engine",
             "description": "Rails API | Postgresql",
-            "url": "https://github.com/alexGrandolph/rails-engine"
+            "url": "https://github.com/alexGrandolph/rails-engine",
+            "repo": "https://github.com/alexGrandolph/rails-engine"
         },
         {
             "cover": "/skeetereyesxcf.png",
             "title": "React Portfolio",
             "description": "JS | React | JSX | Sass",
-            "url": "https://github.com/alexGrandolph/react-portfolio"
+            "url": "https://github.com/alexGrandolph/react-portfolio",
+            "repo": "https://github.com/alexGrandolph/react-portfolio"
         },
 
         {
             "cover": "/Tetris.png",
             "title": "React Tetris",
             "description": "JS | React | JSX | Sass",
-            "url": "https://tetris-rho-beige.vercel.app/"
+            "url": "https://tetris-rho-beige.vercel.app/",
+            "repo": "https://github.com/alexGrandolph/tetris"
         },
         {
             "cover": "/night_writer.png",
             "title": "Night Writer",
             "description": "Ruby | RSpec",
-            "url": "https://github.com/alexGrandolph/night_writer"
+            "url": "https://github.com/alexGrandolph/night_writer",
+            "repo": "https://github.com/alexGrandolph/night_writer"
         }
     ]
 }

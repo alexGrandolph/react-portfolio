@@ -73,6 +73,7 @@
             margin-top: 30px;
             margin-bottom: 10px;
             padding: 0 23px;
+            margin: 12px;
             height: 40px;
             line-height: 34px;
             border: 2px solid rgba(8, 253, 216, 0.365);
@@ -130,6 +131,18 @@
           
           &:nth-child(3) {
               &:hover:after {
+                content: 'PupTrainer is an app for anyone who wants to traini their dog.  The backend was built with Rails using a GraphQL API.  The API has several queries and endpoints for a seamless frontend.';
+                font-size: 15px;
+                font-weight: 500;
+                color: black;
+                padding-top: 50px;
+                padding-right: 30px;
+                padding-left: 2px;
+              }
+          }
+          
+          &:nth-child(4) {
+              &:hover:after {
                 content: 'Viewing Party is a Rails App that allows users to search for movies, and create Viewing Parties with their friends.  Authentication/Verfication is handled with Bcrypt.';
                 font-size: 15px;
                 font-weight: 500;
@@ -141,7 +154,7 @@
           }
           
           
-          &:nth-child(4) {
+          &:nth-child(5) {
               &:hover:after {
                 content: 'Rails Engine is a business intelligence API.  Its endpoints offer data about merchants and items.  It also offers business intelligence endpoints such as top revenue earners through Active Record queries.';
                 font-size: 15px;
@@ -152,7 +165,7 @@
                 padding-left: 2px;              }
           }
           
-          &:nth-child(5) {
+          &:nth-child(6) {
               &:hover:after {
                 content: 'This portfolio app was my first completed app using React or any language/framework other than Rails.  A big thanks to Code with Sloba on Youtube for getting me started.';
                 font-size: 15px;
@@ -163,7 +176,7 @@
                 padding-left: 2px;
               }
           }
-          &:nth-child(6) {
+          &:nth-child(7) {
               &:hover:after {
                 content: 'React Tetris is a fully functioning in browser game made with React.  The app features styled-components, and was a great excercise in logic with JavaScript/React.';
                 font-size: 15px;
@@ -174,7 +187,7 @@
                 padding-left: 2px;
               }
           }
-          &:nth-child(7) {
+          &:nth-child(8) {
               &:hover:after {
                 content: 'Night Writer is a project written entirely in Ruby using TDD.  Users can input a .txt file containing a message and Night Writer will conver that message to a "braile".  It can also translate braille into plain text.';
                 font-size: 15px;
