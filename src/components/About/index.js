@@ -69,12 +69,13 @@ const About = () => {
               <img src="/rails.png" alt="rails" />
             </div>
             <div className="face4">
+              <img src="/graphql.png" alt="graphql" />
             </div>
             <div className="face5">
               <img src="/postgresql.png" alt="postgresql" />
             </div>
             <div className="face6">
-              <FontAwesomeIcon icon={faGitAlt} color="#EC4D28" />
+              <img src="/rest-api.png" alt="rest-api" />
             </div>
           </div>
         </div>
