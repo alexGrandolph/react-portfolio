@@ -44,7 +44,7 @@
         },
 
         {
-            "cover": "/Tetris.png",
+            "cover": "/tetris.png",
             "title": "React Tetris",
             "description": "JS | React | JSX | Sass",
             "url": "https://tetris-rho-beige.vercel.app/",
