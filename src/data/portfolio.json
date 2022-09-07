@@ -50,12 +50,34 @@
             "url": "https://tetris-rho-beige.vercel.app/",
             "repo": "https://github.com/alexGrandolph/tetris"
         },
+
         {
             "cover": "/night_writer.png",
             "title": "Night Writer",
             "description": "Ruby | RSpec",
             "url": "https://github.com/alexGrandolph/night_writer",
             "repo": "https://github.com/alexGrandolph/night_writer"
+        },
+        {
+            "cover": "/hackernews_logo.png",
+            "title": "Hacker News Clone",
+            "description": "JavaScript | CSS | REST API",
+            "url": "https://hacker-news-clone-rosy.vercel.app/#/",
+            "repo": "https://github.com/alexGrandolph/hacker-news-clone"
+        },
+        {
+            "cover": "/color_picker.png",
+            "title": "Color Picker",
+            "description": "JavaScript | CSS ",
+            "url": "https://alexgrandolph.github.io/js-color-picker/",
+            "repo": "https://github.com/alexGrandolph/js-color-picker"
+        },
+        {
+            "cover": "/google-keep-logo.png",
+            "title": "Google Keep Clone",
+            "description": "JavaScript | CSS ",
+            "url": "https://alexgrandolph.github.io/google-form-clone/",
+            "repo": "https://github.com/alexGrandolph/google-form-clone"
         }
     ]
 }

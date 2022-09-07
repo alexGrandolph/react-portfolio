@@ -198,6 +198,39 @@
                 padding-left: 2px;
               }
           }
+          &:nth-child(9) {
+              &:hover:after {
+                content: 'This HackerNews Clone makes use of the HackerNews API.  Using vanilla JS this app allows users to view the top, new, show, and ask stories and comments from HackerNews as well as save stories to their favorites.';
+                font-size: 15px;
+                font-weight: 500;
+                color: black;
+                padding-top: 50px;
+                padding-right: 30px;
+                padding-left: 2px;
+              }
+          }
+          &:nth-child(10) {
+              &:hover:after {
+                content: 'Using only vanilla JS and CSS users of Color Picker can input EITHER a Hex color code or a RGB value and lighten or darken the color in real time. Using only vanilla JS and CSS.';
+                font-size: 15px;
+                font-weight: 500;
+                color: rgb(46, 30, 30);
+                padding-top: 50px;
+                padding-right: 30px;
+                padding-left: 2px;
+              }
+          }
+          &:nth-child(11) {
+              &:hover:after {
+                content: "This application is a clone of the popular Google Keep application.  It allows a user to save a 'sticky note' with a title and body, they can update, delete, and change the color of their notes in real time. Built only with vanilla JS and CSS.";
+                font-size: 15px;
+                font-weight: 500;
+                color: black;
+                padding-top: 50px;
+                padding-right: 35px;
+                padding-left: 5px;
+              }
+          }
           
         &:hover:after {
             content: "";
