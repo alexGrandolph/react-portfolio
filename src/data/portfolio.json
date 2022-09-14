@@ -22,6 +22,20 @@
             "repo": "https://github.com/PupTrainer/be_puptrainer"
         },
         {
+            "cover": "/rancid_home.png",
+            "title": "Rancid Tomatillos",
+            "description": "JS | React | APIs | Sass",
+            "url": "https://rancid-tomatillos-brown.vercel.app/",
+            "repo": "https://github.com/alexGrandolph/rancid-tomatillos"
+        },
+        {
+            "cover": "/skeetereyesxcf.png",
+            "title": "React Portfolio",
+            "description": "JS | React | Sass",
+            "url": "https://github.com/alexGrandolph/react-portfolio",
+            "repo": "https://github.com/alexGrandolph/react-portfolio"
+        },
+        {
             "cover": "/viewing_party.png",
             "title": "Viewing Party",
             "description": "Rails | Postgresql",
@@ -35,20 +49,20 @@
             "url": "https://github.com/alexGrandolph/rails-engine",
             "repo": "https://github.com/alexGrandolph/rails-engine"
         },
-        {
-            "cover": "/skeetereyesxcf.png",
-            "title": "React Portfolio",
-            "description": "JS | React | JSX | Sass",
-            "url": "https://github.com/alexGrandolph/react-portfolio",
-            "repo": "https://github.com/alexGrandolph/react-portfolio"
-        },
 
         {
             "cover": "/tetris.png",
             "title": "React Tetris",
-            "description": "JS | React | JSX | Sass",
+            "description": "JS | React | Sass",
             "url": "https://tetris-rho-beige.vercel.app/",
             "repo": "https://github.com/alexGrandolph/tetris"
+        },
+        {
+            "cover": "/meme.png",
+            "title": "React Meme Generator",
+            "description": "JS | React | REST API",
+            "url": "https://react-meme-generator-six.vercel.app/",
+            "repo": "https://github.com/alexGrandolph/react-meme-generator"
         },
 
         {
