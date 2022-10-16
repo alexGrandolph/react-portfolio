@@ -70,7 +70,7 @@ const Home = () => {
             idx={2}
           />
         </h1>
-        <h2>Ruby || Rails || APIs </h2>
+          <h2>Software Engineer @ <span><a className="bf-link" href="https://www.beyondfinance.com/">Beyond Finance</a></span></h2>
      
         <Link to="/contact" className="flat-button">CONTACT ME
         </Link>
