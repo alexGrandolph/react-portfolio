@@ -49,10 +49,9 @@ const Contact = () => {
             />
           </h1>
           <p>
-            I am currently looking for a web develpment role.  I have a back end development 
-            certificate from The Turing School of Software Design, but am also interested in 
-            full stack oppurtunities.  I know Ruby, Ruby on Rails, and SQL.
-            I am currently learning JavaScript and React, and tinkering with Python.  I am excited to learn any new language.
+            I am Software Engineer at Beyond Finance.  I have a Back End Engineering 
+            certificate from The Turing School of Software Design.  My language/framework preference is Ruby on Rails or React, but I love learning new technologies.
+            I am not currently looking for a role, but if you have any questions or would like to contact me please feel free to shoot me an email!
             My resume is available  <a href="Resume4.0.pdf" target="_blank" className="resume-link">HERE</a>.
           </p>
 
